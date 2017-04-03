@@ -1,4 +1,4 @@
-package acm_328;
+package acm_43;
 
 public class printCommonPart {
 
